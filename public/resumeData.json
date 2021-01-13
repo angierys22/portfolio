@@ -5,10 +5,10 @@
     "image":"profilepic.jpg",
     "bio":"My name is Angelica Reyes but I go by Angie. I am graduated with a bachelors in computer science in 2015 from New York Institute of Technology. Since I have graduated, my career has been in digital marketing helping with coding emails, updating or creating pages on various CMS systems, and coming up with creative for multiple brands. I learned Photoshop at my current job which is why I became their digital designer. I love learning new things which is why I want to get into web development. Having some hands on at work has spiked an interest in learning more about it. ",
     "contactmessage":"Submit the form below and I will get back to you as soon as I can.",
-    "email": "areyes@gmail.com",
+    "email": "areyes1293@gmail.com",
     "phone": "(914)563-6938",
     "github":"https://github.com/angierys22",
-    "resume":"https://drive.google.com/file/d/16glnUkWBES1CUh_2TAk-M5Br46SwbVvx/view",
+    "linkedin":"https://www.linkedin.com/in/angelicarys",
     "address":{
       "city":"New Rochelle",
       "state":"New York",
@@ -23,98 +23,37 @@
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      }
-    ],
-    "work":[
-      {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
-    ],
-    "skills":[
-      {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
-      }
-    ]
-  },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Note Taker",
+        "category":"Take notes with Express",
+        "image":"note-taker.jpg",
+        "url":"https://note-taker-angie.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Burger App",
+        "category":"Eat-Da-Burger!",
+        "image":"burger.jpg",
+        "url":"https://ar-burger.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Hyfit workout app",
+        "category":"App to help guide you with your desired workout",
+        "image":"Project-2.jpg",
+        "url":"https://ar-project-2.herokuapp.com"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Password Generator",
+        "category":"Random password generator app",
+        "image":"pw-generator.jpg",
+        "url":"https://angierys22.github.io/03-passwordgenerator/Develop/index.html"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Coding Quiz Challenge",
+        "category":"Quiz to test your coding knowledge",
+        "image":"code-quiz.jpg",
+        "url":"https://angierys22.github.io/04-code-quiz/Develop/index.html"
       }
     ]
   }
